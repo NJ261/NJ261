@@ -1,4 +1,6 @@
-### Hi there 👋
+# ✨ Nirav Jadeja's GitHub profile ✨ 
+
+![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nj261&theme=dark&show_icons=true&count_private=true)
 
 <!--
 **NJ261/NJ261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
